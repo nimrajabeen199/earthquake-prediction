@@ -1,6 +1,0 @@
-streamlit
-plotly
-pandas
-numpy
-tensorflow
-h5py
